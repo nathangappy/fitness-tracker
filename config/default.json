@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://developer1:victor28@data-gaug1.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "fitnessapptoken"
+}
